@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace RaceTrack.RaceTrack.Cars
 {
-	public class Mitsubishi: RaceCar
+	public class MitsubishiLancer: RaceCar
 	{
-		public Mitsubishi()
+		public MitsubishiLancer()
 		{
 			Name = "Mitsubishi";
 			TopSpeed = 120;
