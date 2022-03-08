@@ -11,7 +11,7 @@ namespace RaceTrack.RaceTrack.Cars
 	{
 		public MitsubishiLancer()
 		{
-			Name = "Mitsubishi";
+			Name = "Mitsubishi Lancer";
 			TopSpeed = 120;
 		}
 
